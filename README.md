@@ -1,0 +1,2 @@
+# premium-resist-felt-001-resist-felting-3d-form-design
+The traditional-felting-techniques tool you'd build yourself — if you had the time.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Resist Felting 3D Form Design — fully configured and ready to use - Pre-built databases
